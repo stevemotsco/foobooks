@@ -6,6 +6,10 @@
 	"require": {
 		"laravel/framework": "4.2.*"
 	},
+	"require": {
+        "laravel/framework": "4.1.*",
+        "paste/pre": "dev-master"
+	},
 	"autoload": {
 		"classmap": [
 			"app/commands",
